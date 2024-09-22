@@ -17,7 +17,7 @@ With this application, we hope to be able to help musicians everywhere. Because 
 It is a collection of songs that you can choose to listen to. We shuffle all the songs here so that you don't see other songs and it doesn't look boring.
 
 ## About
-The information center that we provide for how to use the DCM Player application. Contact us if you are still confused at [Email](mailto:darkcluemusic@gmail.com) or [@dcmplayer](https://t.mr/@dcmplayer).
+The information center that we provide for how to use the DCM Player application. Contact us if you are still confused at [Email](mailto:darkcluemusic@gmail.com) or [@dcmplayer](https://t.me/@dcmplayer).
 
 ## Setting
 You can arrange or decorate the display according to what is provided, just pretend you are in your own home and manage your posts.
