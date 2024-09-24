@@ -11,10 +11,10 @@ DCM Player is a music player webapp that we provide to play music lyrics stored 
 With this application, we hope to be able to help musicians everywhere. Because this is the place to share your musical experiences.
 
 
->In terms of copyright on the songs uploaded here, we are only the party that provides the upload service, in other words, the music uploaded by the user does not mean that he owns the song! and if the user claims verbally in the song lyrics column that he is the owner of the song but is not, we will take firm action to delete the song and block the user. We will submit the information we recorded about the user to the original song owner. Read more Privacy Policy.
+>Regarding the copyright of the songs uploaded here, we are only a party that provides upload services and lyric music players, in other words, the music uploaded by users does not mean that the song belongs to the user! and if the user claims verbally in the input column that he is the owner of the song when in fact he is not, then we will take firm action by deleting the song and blocking the user. The information we record about the user will be submitted to the original song owner. Read more [Privacy Policy](https://darkcluemusic.github.io/privacy-policy/).
 
 ## Home
-It is a collection of songs that you can choose to listen to. We shuffle all the songs here so that you don't see other songs and it doesn't look boring.
+This is a collection of songs that you can choose to listen to. We shuffle all the songs here so you can see other songs and not look boring.
 
 ## About
 The information center that we provide for how to use the DCM Player application. Contact us if you are still confused at [Email](mailto:darkcluemusic@gmail.com) or [@dcmplayer](https://t.me/dcmplayer).
